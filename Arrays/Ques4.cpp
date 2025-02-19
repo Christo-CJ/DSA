@@ -3,7 +3,7 @@ Given an array arr[]. Rotate the array to the left (counter-clockwise direction)
  
 Note: Consider the array as circular. 
 
-Examples :  
+Examples :   
   
 Input: arr[] = [1, 2, 3, 4, 5], d = 2
 Output: [3, 4, 5, 1, 2]
